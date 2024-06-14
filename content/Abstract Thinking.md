@@ -1,5 +1,3 @@
-**Date:** 11-06-2024 00-24
-**Tags:** #wiki/think
 **Uplink:** [[MOC - Thinking]]
 
 # Abstract Thinking

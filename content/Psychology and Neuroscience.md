@@ -1,3 +1,4 @@
+## Psychology
 - [[Active Listening]]
 - [[Abstract Thinking]]
 - [[Divergent Thinking]]
@@ -6,6 +7,7 @@
 - [[Linear Thinking]]
 - [[Illusion of Knowing]]
 
+## Neuroscience
 - [[Anterograde Amnesia]]
 - [[Declarative Memory]]
 - [[Procedural Memory]]

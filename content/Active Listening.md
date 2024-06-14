@@ -1,10 +1,4 @@
-**Date:** 11-06-2024 18-52
-**Tags:** #listening #meta/wip 
 **Uplink:** [[MOC - Listening]]
-
-# Active Listening
->[!Motivation]
->I identified the lack of listening skills and the inability to pay attention in my journaling entry on [[18 April 2024]]. This note is for understanding what active listening is and how to improve my listening skills for a better quality of life and to become a better person each day
 
 Active listening is all about thoroughly participating in a conversation and listening to what others are saying to full effect
 
