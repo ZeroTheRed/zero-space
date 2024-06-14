@@ -1,8 +1,3 @@
----
-title: Psychology and Neuroscience
-draft: true
-tags:
----
 - [[Active Listening]]
 - [[Abstract Thinking]]
 - [[Divergent Thinking]]
