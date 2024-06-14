@@ -5,66 +5,41 @@ title: The Zero Space
 
 I am Tushar, and you are entering my [[Digital Garden]] and personal wiki
 
+This site takes up multiple forms
+- **Braindump/Wiki** - Anything interesting and cool that I'm learning will be recorded here
+- **Blog** - You will find my thoughts and musings, which I post sporadically
+- **Archive** - Awesome YouTube videos, websites, second brains, books, and songs will be found here. If you're looking for recommendations and want a peek into my personal tastes, you'll find the archive fun
 
+>[!Note]
+>My digital garden is quite unpolished and haphazard. If you see half-complete, cryptic, and scattershot arrangements of my notes, that's because it's a work-in-progress. Also, this is more of my attempt of **learning in public**
+>
 
+With that said, enjoy my garden! 
 
+----
+## Braindump
+You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a network of concepts and topics that I'm learning/have learned
 
-## Wiki 
-
-
-001 - **Psychology**
-- [[MOC - Listening]]
-- [[MOC - Thinking]]
-- [[MOC - Learning]]
-
-002 - **Neuroscience**
-- [[MOC - Neuroscience]]
-
-003 - **Software and Programming**
-- [[MOC - Programming]]
-
-004 - **Aerospace**
-- [[MOC - Aircraft]]
-- [[MOC - Spacecraft]]
-- [[MOC - Satellites]]
-- [[MOC - Aerospace General]]
-
-005 - **Philosophy**
-- [[MOC - Philosophy]]
-
-006 - **Robotics**
-- [[MOC - Robotics]]
-
-007 - **Business Management and Leadership**
-- [[MOC - Business Management and Leadership]]
-
-008 - **Emergent and Disruptive Technology**
-- [[Digital Twin]]
-- [[Augmented Reality]]
-- [[Blockchain]]
-- [[Edge Computing]]
-- [[Cloud Computing]]
-
-## Fun Stuff
-
-101 - **Vocabulary**
-- [[MOC - Vocabulary]]
-
-102 - **Gaming and Game Dev**
+- [[Psychology and Neuroscience]]
+- [[Aircraft and Spacecraft]]
+- [[Philosophical Stuff]]
+- [[Robotics]]
+- [[Technology - General, Emergent, and Disruptive]]
 - [[Doom Mapping]]
+- [[Vocabulary and Linguistics]]
 
-103 - **Weblinks**
+----
+## Blog
+My random sparks of inspiration, musings about the internal and external world, and opinions
+
+- [[Reflections]]
+
+----
+## Archive 
+The grand collection of awesome website links I have found, other fantastic digital gardens and second brains, and stuff that I follow on the internet (and outside)
+
 - [[Awesome links]]
 - [[Collections of Exo-brains, Digital Gardens, and PKBs]]
+- [[My YouTube subscriptions]]
+- [[Music Tastes]]
 
-## Personal Life
-This is a closed-off space private to myself. I like to record my life and declutter my oft-noisy brain by journaling. Other reflections and notable happenings in my life also go here
-- [[MOC - Journaling]]
-- [[MOC - Reflections]]
-- [[MOC - Life Statistics and Lists]]
-- [[My Personality Test Results]]
-
-## Meta
-- [[Notebox]] - A tracker of notes that require development 
-- [[Obsidian Meta]] - Recording all that I'm learning about using Obsidian itself
-- [[Idea Capture]] - A running list of fleeting ideas. I will dump them here first and then develop notes to ossify them 
