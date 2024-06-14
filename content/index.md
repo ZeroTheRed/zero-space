@@ -21,12 +21,13 @@ With that said, enjoy my garden!
 You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a network of concepts and topics that I'm learning/have learned
 
 - [[Psychology and Neuroscience]]
-- [[Aircraft and Spacecraft]]
 - [[Philosophical Stuff]]
-- [[Robotics]]
-- [[Technology - General, Emergent, and Disruptive]]
-- [[Doom Mapping]]
-- [[Vocabulary and Linguistics]]
+
+>[!Todo]
+>- [[Aircraft and Spacecraft]]
+>- [[Robotics]]
+>- [[Technology - General, Emergent, and Disruptive]]
+>- [[Doom Mapping]]
 
 ----
 ## Blog
@@ -40,6 +41,5 @@ The grand collection of awesome website links I have found, other fantastic digi
 
 - [[Awesome links]]
 - [[Collections of Exo-brains, Digital Gardens, and PKBs]]
-- [[My YouTube subscriptions]]
 - [[Music Tastes]]
 
