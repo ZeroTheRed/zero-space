@@ -22,6 +22,7 @@ You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a
 
 - [[Psychology and Neuroscience]]
 - [[Philosophical Stuff]]
+- [[Future Technology]]
 
 >[!Todo]
 >- [[Aircraft and Spacecraft]]
