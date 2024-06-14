@@ -17,7 +17,7 @@
 I got myself interested in neuroscience after a health anxiety attack last year, when I feared thinking I had MS, dementia, mini-strokes, and even brain cancer. Seeing how powerful the mind is in setting off psychosomatic symptoms is what sealed the deal for me
 
 - [[Anterograde Amnesia]]
-- [[Declarative Memory]]
+- [[Declarative and Procedural Memory]]
 - [[Effective Learning]]
 - [[Growth Mindset]]
 - [[Hippocampus]]

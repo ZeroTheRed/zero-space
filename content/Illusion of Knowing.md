@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 19-00
-**Tags:** #wiki/learn 
-**Uplink:** [[MOC - Learning]]
-
-# Illusion of Knowing
-
 > The only true wisdom is in knowing you know nothing
 > *Socrates*
 

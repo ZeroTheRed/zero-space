@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 01-23
-**Tags:**  #fun/links 
-**Uplink:** [[Landing Page]]
-
-# Collections of Exo-brains, Digital Gardens, and PKBs
-
 I love knowledge bases and personal wikis! I've been searching and collecting publicly available PKBs and other knowledge systems to learn more about how to structure and organize my own, and to gain a glimpse into the rich internal worlds of other people
 
 * https://beepb00p.xyz/exobrain/

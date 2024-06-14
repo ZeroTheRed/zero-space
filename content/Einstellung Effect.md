@@ -1,11 +1,4 @@
-**Date:** 12-06-2024 01-01
-**Tags:** #wiki/think 
-**Uplink:** 
-
-# Einstellung Effect
-
->[!Definition]
->The **Einstellung effect** is the phenomenon where we tend to apply solutions and interpretations **based on what we are familiar with and previously successful solutions** despite more efficient and optimal solutions existing
+The **Einstellung effect** is the phenomenon where we tend to apply solutions and interpretations **based on what we are familiar with and previously successful solutions** despite more efficient and optimal solutions existing
 
 Adopting a healthy [[Growth Mindset]] counters the Einstellung effect
 

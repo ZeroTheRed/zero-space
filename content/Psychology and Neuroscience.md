@@ -1,16 +1,14 @@
 ## Psychology
 - [[Active Listening]]
 - [[Abstract Thinking]]
-- [[Divergent Thinking]]
 - [[Nonlinear Thinking]]
-- [[Metacognition]]
+- [[Divergent Thinking]]
 - [[Linear Thinking]]
 - [[Illusion of Knowing]]
 
 ## Neuroscience
 - [[Anterograde Amnesia]]
-- [[Declarative Memory]]
-- [[Procedural Memory]]
+- [[Declarative and Procedural Memory]]
 - [[Hippocampus]]
 - [[Reward System]]
 - [[Neuroplasticity]]

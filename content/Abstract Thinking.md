@@ -1,10 +1,3 @@
-**Uplink:** [[MOC - Thinking]]
-
-# Abstract Thinking
-
->[!Definition]
->Thinking about non-physical entities, concepts, and general ideas
-
 **Abstract** thinking involves coming up with *higher-order ideas and connections*. Abstract thinkers also think *metaphorically and creatively*. The opposite of abstract thinking is [[Concrete Thinking]]
 
 ### Features of abstract thinking

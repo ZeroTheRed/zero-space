@@ -1,0 +1,9 @@
+- Industrial 
+	- Industrial Rock
+	- Industrial Metal
+	- Electro-Industrial
+	- Electronic Body Music (EBM)
+- Ambient 
+	- Dark Ambient
+- 90s House 
+- Heavy Metal 

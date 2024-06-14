@@ -1,13 +1,3 @@
-**Date:** 11-06-2024 22-19
-**Tags:** #wiki/think
-**Uplink:** [[MOC - Thinking]]
-
-# Linear Thinking
-
-
->[!Definition]
->Systematic and sequential thinking
-
 **Linear thinking** is generally a highly *practical* form of thinking that involves parsing information in a *procedural manner*.  Linear thinkers prefer taking things *sequentially* from A to B, following concepts *step by step*. The opposite of this form of thinking is [[Nonlinear Thinking]]
 
 Think of linear thinking as using a powerful but highly focused laser to burn a deep but narrow hole. Linear thinkers rely on rules (guidelines to constrain and focus their work) and logic to guide themselves to the solution
