@@ -3,7 +3,7 @@ title: The Zero Space
 ---
 ## Hello there! 
 
-I am Tushar
+
 
 Ah, so you have decided to venture right into my digital garden, haven't you? Your curiosity is quite commendable
 
