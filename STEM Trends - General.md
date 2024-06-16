@@ -1,0 +1,2 @@
+1. Building heavier and more powerful eVTOLs for transporting cargo in the military and manufacturing spheres
+2. Addressing the need to develop LLMs for specific use cases and integrating experiment data, results, and findings into AI models

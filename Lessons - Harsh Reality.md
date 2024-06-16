@@ -1,0 +1,9 @@
+- You are your greatest advocate. You'll rot away if you don't take an active role in your existence
+- The world is a harsh, unjust, and lonely place. Just because you're a nice and decent person, it doesn't mean others will treat you well. You have to adapt to your surroundings or risk getting eaten alive
+- Do no harm but take no shit
+- People will use you and lie about it to your face
+- We suffer more in our imagination than in reality
+- No matter how much of a good person you are, people will fuck you over. It happens to everyone, and we need to accept it and move on
+- Never taking anything personally
+- Life was not fair, it isn't fair, and it will never be fair
+- Everything that's truly worth doing is difficult and requires self-discipline

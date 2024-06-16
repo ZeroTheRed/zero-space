@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"05ed6442e77ba3ff","type":"text","text":"Wearable Health Monitoring (FitBit etc)","x":-180,"y":-360,"width":240,"height":80,"color":"#004cff"},
+		{"id":"c73af1fac6a01618","type":"text","text":"Security cameras and alert systems at home","x":-180,"y":-250,"width":240,"height":80,"color":"#004cff"},
+		{"id":"df2fb18db051ef79","type":"text","text":"Smart home automation (Alexa, Google Home etc)","x":-180,"y":-140,"width":240,"height":100,"color":"#004cff"},
+		{"id":"f953b551bb866b4b","type":"text","text":"Consumer IoT","x":-480,"y":-240,"width":180,"height":60,"color":"2"},
+		{"id":"28f6e3b47cbbaa5d","type":"text","text":"Supply Chain and Logistics - GPS Cargo tracking and logging","x":-185,"y":20,"width":250,"height":100,"color":"#ff05f7"},
+		{"id":"14fbcfb875928fab","type":"text","text":"Smart Cities - Connected vehicles, automated lights, and data collection ","x":-185,"y":170,"width":250,"height":110,"color":"#ff05f7"},
+		{"id":"b3c6eaab9fb3b9e9","type":"text","text":"Commercial IoT","x":-480,"y":185,"width":180,"height":80,"color":"2"},
+		{"id":"0491038666bfadb6","type":"text","text":"Grocery Shopping - Automated sensor-based product pick-up and billing (Amazon)","x":-185,"y":320,"width":250,"height":120,"color":"#ff05f7"},
+		{"id":"f41d377082509dcb","type":"text","text":"Edge Predictive Maintenance - Data from field sensors and AI","x":-185,"y":-680,"width":265,"height":100,"color":"#00ff33"},
+		{"id":"acc29b97ffd74e93","type":"text","text":"Smart Factory - Workers wear smart glasses and data is directly fed to them","x":-185,"y":-550,"width":265,"height":110,"color":"#00ff33"},
+		{"id":"f5630f5a8c361da7","type":"text","text":"Supply Chain and Logistics - GPS Cargo tracking and logging","x":-185,"y":-820,"width":265,"height":100,"color":"#00ff33"},
+		{"id":"62255f2d70cc04ac","type":"text","text":"IIoT","x":-480,"y":-660,"width":180,"height":60,"color":"2"},
+		{"id":"d15718cf39210658","type":"text","text":"Applications of IoT","x":-840,"y":-245,"width":160,"height":70,"color":"#ff2600"},
+		{"id":"e75e4469af090923","x":-1500,"y":-880,"width":200,"height":80,"color":"#fe76ec","type":"text","text":"Physical Device / Sensors"},
+		{"id":"5aecd5142732abd5","x":-1500,"y":-620,"width":200,"height":60,"color":"#8ab7ff","type":"text","text":"Internet Gateway"},
+		{"id":"3e614ef27dc1d8fe","x":-940,"y":-620,"width":140,"height":60,"color":"#00ff40","type":"text","text":"Analytics"},
+		{"id":"44b03a192f9edbc0","x":-1200,"y":-780,"width":140,"height":60,"color":"#fbff00","type":"text","text":"Cloud "},
+		{"id":"554f508123d6a703","x":-967,"y":-880,"width":195,"height":60,"type":"text","text":"User Interface"}
+	],
+	"edges":[
+		{"id":"183d6fee17155c1b","fromNode":"f953b551bb866b4b","fromSide":"right","toNode":"05ed6442e77ba3ff","toSide":"left"},
+		{"id":"3a67f2b669443329","fromNode":"f953b551bb866b4b","fromSide":"right","toNode":"c73af1fac6a01618","toSide":"left"},
+		{"id":"e7ddb2e6fb8d9727","fromNode":"f953b551bb866b4b","fromSide":"right","toNode":"df2fb18db051ef79","toSide":"left"},
+		{"id":"af2bf15fb4da337e","fromNode":"b3c6eaab9fb3b9e9","fromSide":"right","toNode":"28f6e3b47cbbaa5d","toSide":"left"},
+		{"id":"dae6219d5e44a780","fromNode":"b3c6eaab9fb3b9e9","fromSide":"right","toNode":"14fbcfb875928fab","toSide":"left"},
+		{"id":"64c351f11d0f4c01","fromNode":"b3c6eaab9fb3b9e9","fromSide":"right","toNode":"0491038666bfadb6","toSide":"left"},
+		{"id":"c6fcbe3a905a2c72","fromNode":"62255f2d70cc04ac","fromSide":"right","toNode":"f5630f5a8c361da7","toSide":"left"},
+		{"id":"75e4d353ac8b68a6","fromNode":"62255f2d70cc04ac","fromSide":"right","toNode":"f41d377082509dcb","toSide":"left"},
+		{"id":"5b3897b5f77b1ea7","fromNode":"62255f2d70cc04ac","fromSide":"right","toNode":"acc29b97ffd74e93","toSide":"left"},
+		{"id":"4c06d4e912483d7e","fromNode":"d15718cf39210658","fromSide":"right","toNode":"62255f2d70cc04ac","toSide":"left"},
+		{"id":"c7fc6b7d6d1ca84e","fromNode":"d15718cf39210658","fromSide":"right","toNode":"f953b551bb866b4b","toSide":"left"},
+		{"id":"9a56359dd2612d85","fromNode":"d15718cf39210658","fromSide":"right","toNode":"b3c6eaab9fb3b9e9","toSide":"left"},
+		{"id":"48e8d9c135a4e03f","fromNode":"e75e4469af090923","fromSide":"bottom","toNode":"5aecd5142732abd5","toSide":"top"},
+		{"id":"5153f274680cbf8a","fromNode":"5aecd5142732abd5","fromSide":"top","toNode":"e75e4469af090923","toSide":"bottom"},
+		{"id":"106b0ac97ed07c02","fromNode":"5aecd5142732abd5","fromSide":"right","toNode":"44b03a192f9edbc0","toSide":"bottom"},
+		{"id":"e1c24f2e0a9605f8","fromNode":"44b03a192f9edbc0","fromSide":"left","toNode":"5aecd5142732abd5","toSide":"top"},
+		{"id":"e8d0705418bf3b23","fromNode":"3e614ef27dc1d8fe","fromSide":"left","toNode":"44b03a192f9edbc0","toSide":"bottom"},
+		{"id":"2bf0090ff4dd4f39","fromNode":"44b03a192f9edbc0","fromSide":"right","toNode":"3e614ef27dc1d8fe","toSide":"top"},
+		{"id":"051826897eb49f74","fromNode":"3e614ef27dc1d8fe","fromSide":"top","toNode":"554f508123d6a703","toSide":"bottom"}
+	]
+}

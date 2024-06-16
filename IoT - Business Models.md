@@ -1,0 +1,1 @@
+https://hbr.org/2014/07/how-the-internet-of-things-changes-business-models

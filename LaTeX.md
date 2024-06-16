@@ -1,0 +1,3 @@
+``Underfull \hbox (badness 10000)``
+This error shows up mainly when you are using ``\\`` as a new line. The error message means that LaTeX is creating a horizontal box (hbox) that spans the entire \textwidth and since there's no character in there (not even a whitespace), it's extending for nothing (hence the underfull error). The degree of wastage is indicated by the badness factor, and in this case, is arbitrarily maxed to 10000. 
+To prevent this error, use ``\par`` instead of ``\\`` for newlines or line breaks. The ``parskip`` package should help you use that

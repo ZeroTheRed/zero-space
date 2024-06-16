@@ -1,0 +1,10 @@
+- Lazarus Moment - Broken
+- Duqa -Tidal
+- Tiikk - Extremely Far
+- Athene - Panalour
+- Black Paper - Herbst
+- Kossik, Subsets - Wait For Me
+- Pseeclo -Mirage 
+- Outrun - Wrong Turn
+- Vaeros - Freeway
+- Lion Forest, Craset - Mile

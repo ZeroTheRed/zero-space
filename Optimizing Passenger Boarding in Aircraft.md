@@ -1,0 +1,23 @@
+### Technical Blueprint (Feasibility)
+Data Analysis, Simulations, Augmented Reality, IoT
+* Collect datasets - Simulations of passengers boarding (gate -> aircraft)
+* Use IoT tech to speed up passenger boarding - [Boarding 4.0](https://www.techscience.com/iasc/v35n3/49357/html)
+	* Passengers can be visually guided to their seats on their mobiles -> Show shortest route and alternatives - **Augmented Reality (AR)**
+	* Sensors in overhead bins -> Show passengers the nearest empty bins with space to place their luggage
+* **Machine Learning** can be used to come up with optimal **routing algorithms** (so far, reverse pyramid and Steffen methods are effective but AI/ML have been shown to provide far more effective methods than people thought up of in other fields)
+
+| Value Proposition                                                                                                                                                                                     | Scalability                                                                                                                                                                                                                                           | Sustainability                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Reduced aircraft turnaround time                                                                                                                                                                      | Jets of different sizes -> different airports -> different cities -> different countries                                                                                                                                                              | Reduced turnaround time -> Lesser standby fuel usage             |
+| Faster and more optimal boarding leaves room for more options of revenue generation before take-off<br><br>Leaves options for passengers to spend more time shopping because of shorter boarding time | Enables airports to accommodate and schedule more flights per day                                                                                                                                                                                     | Less waste generated due to reduced boarding and turnaround time |
+| Increased customer satisfaction and loyalty towards airlines                                                                                                                                          | Integration with other technologies. Reducing passenger boarding time can cause a ripple chain effect leading to the incorporation of better and more modern tech in other connected processes in airports (digital ticketing, luggage handling etc.) |                                                                  |
+|                                                                                                                                                                                                       |                                                                                                                                                                                                                                                       |                                                                  |
+#### Further Reading
+1. https://www.skaylink.com/en/case-studies/iot-solution-for-self-boarding-at-airports/
+2. https://www.mdpi.com/2227-7390/11/20/4288
+3. https://www.techscience.com/iasc/v35n3/49357/html
+4. https://www.linkedin.com/pulse/top-5-aviation-infrastructure-challenges-india-wiccinac-mmxvf/
+5. https://www.claimcompass.eu/blog/en/why-is-my-flight-delayed/
+6. https://bird-x.com/blog/bird-strikes-in-the-aviation-industry-are-increasing-what-are-the-dangers
+7. https://www.wccaviation.com/blogs/airline-passengers-5-most-common-problems-and-how-to-solve-them
+8. https://timesofindia.indiatimes.com/city/mumbai/2-hour-snag-in-air-traffic-automation-systems-hits-flights/articleshow/108517375.cms

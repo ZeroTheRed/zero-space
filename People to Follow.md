@@ -1,0 +1,3 @@
+- **Martin Gutmann** - Professor, Historian, and Public Speaker on Leadership 
+- **Barbara Oakley** - Professor of Engineering, Oakland University and McMaster University. Focus on learning and complex relations between neuroscience and social behaviour
+- **Theodore Sider** - Professor of Philosophy at Rutgers University and the author of Four-Dimensionalism 

@@ -1,0 +1,1 @@
+`memset(&buffer[0], 0, sizeof(buffer))` will initialize the entire array to null. `&buffer[0]` is the address of the start of the array, which `memset()` will interpret as a pointer to the whole array, thus initializing all of it and not just the first element, as I had mistakenly assumed at first

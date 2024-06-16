@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"af46f18b51882062","x":54,"y":-280,"width":304,"height":76,"type":"text","text":"Networking with people who have *good associative thinking*"},
+		{"id":"394b9cf44ade51c2","type":"text","text":"Perform *random* and *forced* associations between entities","x":51,"y":-148,"width":304,"height":76},
+		{"id":"c778cc788d62d0e7","type":"text","text":"Improve memory by *chunking* and connecting multiple entities to a single entity","x":52,"y":-20,"width":301,"height":103},
+		{"id":"ca04d9add97b319f","x":52,"y":117,"width":304,"height":82,"type":"text","text":"Be *open-minded* and cultivate an *interdisciplinary* mindset"},
+		{"id":"049d6e1f70aa333e","x":-436,"y":-72,"width":220,"height":61,"color":"5","type":"text","text":"[[Associative Thinking]]"}
+	],
+	"edges":[
+		{"id":"9b43addf33cc4dba","fromNode":"049d6e1f70aa333e","fromSide":"right","toNode":"af46f18b51882062","toSide":"left"},
+		{"id":"c6fff23c2bd0f9bb","fromNode":"049d6e1f70aa333e","fromSide":"right","toNode":"394b9cf44ade51c2","toSide":"left"},
+		{"id":"dede82931445ea29","fromNode":"049d6e1f70aa333e","fromSide":"right","toNode":"c778cc788d62d0e7","toSide":"left"},
+		{"id":"b546dd5be852c3e4","fromNode":"049d6e1f70aa333e","fromSide":"right","toNode":"ca04d9add97b319f","toSide":"left"}
+	]
+}

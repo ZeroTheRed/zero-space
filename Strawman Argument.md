@@ -1,0 +1,1 @@
+"What do you think of that group of college students there?" "I have a low opinion of habitual alcoholics." - <span style="color:orange">Misinterpreting an argument and attacking that instead of the main argument</span>

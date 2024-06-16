@@ -1,0 +1,1 @@
+- `#pragma once` functions like an include guard. When this is introduced, it instructs the C preprocessor to not include/define header files or data structures that have already been defined (to prevent double-defined compilation errors)

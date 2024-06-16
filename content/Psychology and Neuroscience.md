@@ -5,12 +5,13 @@
 - [[Divergent Thinking]]
 - [[Linear Thinking]]
 - [[Illusion of Knowing]]
+- [[Critical Thinking]]
 
 ## Neuroscience
-- [[Anterograde Amnesia]]
 - [[Declarative and Procedural Memory]]
 - [[Hippocampus]]
-- [[Reward System]]
+	- [[Reward System]]
+	- [[Anterograde Amnesia]]
 - [[Neuroplasticity]]
 - [[Zone of Proximal Development]]
 - [[Growth Mindset]]
