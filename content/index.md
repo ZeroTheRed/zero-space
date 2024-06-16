@@ -21,6 +21,8 @@ Utilize the search bar located at the top to look for anything that interests yo
 
 Down below is a set of Maps of Content (MOC), which serve as indices for you to navigate into specific topics. Feel free to choose either option. I'm working on ways to make navigation easier but that isn't a top priority right now
 
+You can also visit the [[content/Changelog|Changelog]] to check out my recent additions/changes to the garden and check out those notes!
+
 ## Braindump
 You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a network of concepts and topics that I'm learning/have learned
 
