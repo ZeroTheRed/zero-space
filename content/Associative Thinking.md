@@ -1,9 +1,3 @@
-**Date:** 11-06-2024 23-17
-**Tags:** #wiki/think 
-**Uplink:** [[MOC - Thinking]]
-
-# Associative Thinking
-
 >[!Definition]
 >*Associative thinking* is the process of *connecting seemingly unrelated concepts* together and forming relationships between ideas
 

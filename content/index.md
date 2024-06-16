@@ -16,7 +16,11 @@ This site takes up multiple forms
 
 With that said, enjoy my garden! 
 
-----
+## How to navigate my garden?
+Utilize the search bar located at the top to look for anything that interests you. The explorer pane on the left side (which seems to be visible only when you're accessing my website from desktop, oddly) gives you a list of all notes I have in my garden
+
+Down below is a set of Maps of Content (MOC), which serve as indices for you to navigate into specific topics. Feel free to choose either option. I'm working on ways to make navigation easier but that isn't a top priority right now
+
 ## Braindump
 You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a network of concepts and topics that I'm learning/have learned
 

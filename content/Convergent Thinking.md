@@ -1,8 +1,3 @@
-**Date:** 11-06-2024 23-16
-**Tags:** #wiki/think #meta/wip 
-**Uplink:** [[MOC - Thinking]]
-# Convergent Thinking
-
 >[!Definition]
 >The logical method of thinking where facts are brought together to arrive at a solution
 
