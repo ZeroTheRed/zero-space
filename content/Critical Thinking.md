@@ -1,3 +1,3 @@
-- [[Logical Fallacies]]
+- [[Logical Fallacies 1]]
 - [[Asking the Right Questions]]
 - [[Problem Solving]]

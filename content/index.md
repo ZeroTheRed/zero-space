@@ -27,9 +27,13 @@ You can also visit the [[content/Changelog|Changelog]] to check out my recent ad
 You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a network of concepts and topics that I'm learning/have learned
 
 - [[Psychology and Neuroscience]]
-- [[Philosophical Stuff]]
-- [[Future Technology]]
+- [[content/Philosophy|Philosophy]]
+- [[Technology MOC|Technology]]
 - [[Aircraft and Spacecraft]]
+- [[Future Tech and Sci-Fi]]
+- [[Programming]]
+- [[Engineering MOC|Engineering]]
+- [[Misc]]
 
 >[!Todo]
 >- [[Robotics]]

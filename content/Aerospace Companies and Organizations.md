@@ -7,4 +7,5 @@
 | **The Swedish Institute of Space Physics (IRF)**              |                                                                                                                                                                                                           |                       |
 | **DLR Aerospace**                                             | Localization<br>Mapping<br>Ego-localization<br>ML<br>Sensor Integration<br>Data Processing<br>Sensor Calibration<br>Signal Processing<br>Image Processing<br>Pattern Recognition<br>SLAM<br>C++<br>Python |                       |
 | **American Institute of Aeronautics and Astronautics (AIAA)** |                                                                                                                                                                                                           | https://www.aiaa.org/ |
+|                                                               |                                                                                                                                                                                                           |                       |
 

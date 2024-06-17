@@ -1,16 +1,26 @@
+### Thinking
 - [[Active Listening]]
 - [[Abstract Thinking]]
 - [[Nonlinear Thinking]]
 - [[Divergent Thinking]]
 - [[Linear Thinking]]
-- [[Illusion of Knowing]]
 - [[Critical Thinking]]
-- [[Declarative and Procedural Memory]]
+
+### Learning and Development
+- [[Zone of Proximal Development]]
+- [[Growth Mindset]]
+
+### Cognitive Biases
+- [[Illusion of Knowing]]
+- [[Einstellung Effect]]
+- [[Logical Paradoxes]]
+- [[Logical Fallacies]]
+
+### Human Brain
 - [[Hippocampus]]
 	- [[Reward System]]
 	- [[Anterograde Amnesia]]
-- [[Neuroplasticity]]
-- [[Zone of Proximal Development]]
-- [[Growth Mindset]]
-- [[Visuo-Spatial Memory]]
-- [[Fun Facts about the Human Brain]]
+	- [[Neuroplasticity]]
+- **Memory**
+	- [[Visuo-Spatial Memory]]
+	- [[Declarative and Procedural Memory]]

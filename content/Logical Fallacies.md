@@ -1,4 +1,4 @@
-- [[Strawman Argument ]]
+- [[Strawman Argument]]
 - [[Appeal to Ignorance]]
 - [[Slippery Slope]]
 - [[Hasty Generalization]]
