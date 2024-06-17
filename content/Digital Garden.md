@@ -1,8 +1,3 @@
-**Created**: 14-06-2024 01:17
-**Tags**: 
-**Uplink**: [[Landing Page]]
-# Digital Garden
-
 > A garden is something in between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently exploratory – posts are linked through contextual associations
 > - *Maggie Appleton*
 

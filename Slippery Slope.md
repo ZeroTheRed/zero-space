@@ -1,1 +1,0 @@
-"If I don't step up and take leadership of the team right now, you all will eventually fail at your simple jobs, which will incur irreparable losses for the company, and that will mean that all of us will lose our jobs and not be able to feed ourselves and our families!"

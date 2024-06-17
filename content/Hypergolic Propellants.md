@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 20-03
-**Tags:** #wiki/aero/space 
-**Uplink:** [[MOC - Spacecraft]]
-
-# Hypergolic Propellants
-
 >[!Definition]
 >A **hypergolic** propellant doesn't require ignition. It will auto-combust upon mixing with another substance
 

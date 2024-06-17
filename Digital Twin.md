@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 01-00
-**Tags:** #wiki/tech
-**Uplink:** [[Landing Page]]
-
-# Digital Twin
-
 >[!Definition]
 >A **digital twin** is an **accurate** and **one-to-one** **virtual representation** of a physical entity[^1]
 # How does it work?
@@ -25,7 +19,5 @@ A digital twin is pretty much exactly what it's called -- It is a **two-way** tw
 
 # Types of Digital Twins
 This is based on the level of magnification (top -- unit-level. bottom -- full factory level)
-
-![[Pasted image 20240520194011.png]]
 
 [^1]: https://www.ibm.com/topics/what-is-a-digital-twin

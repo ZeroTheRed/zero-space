@@ -1,9 +1,3 @@
-**Date:** 11-06-2024 20-42
-**Tags:** #wiki/think #meta/wip 
-**Uplink:** [[MOC - Thinking]]
-
-# Analytical Thinking
-
 >[!Definition]+
 >**Analytical thinking** is the type of thinking that involves solving problems by breaking them down into smaller components and working through them using *deductive reasoning* and no prior knowledge about the subject
 

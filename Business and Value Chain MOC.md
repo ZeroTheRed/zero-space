@@ -1,7 +1,3 @@
-**Date:** 10-06-2024 23-36
-**Tags:** #business #industry 
-**Uplink:** [[Value Chain]]
-
 # Business and Value Chain MOC
 **Porter's Value Chain Analysis** serves as a great MOC and umbrella for everything that I need to know about in order to succeed both as a worker and as a leader
 

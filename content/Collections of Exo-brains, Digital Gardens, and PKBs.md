@@ -9,6 +9,7 @@ I love knowledge bases and personal wikis! I've been searching and collecting pu
 * https://publish.obsidian.md/mister-chad/welcome - Chad Bennett
 * https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden - Alexis Rondeau
 * https://gwern.net/ - Gwern Branwen
+* https://publish.obsidian.md/aidanhelfant/%F0%9F%8F%A0+My+Home - Aidan Helfant
 
 
 

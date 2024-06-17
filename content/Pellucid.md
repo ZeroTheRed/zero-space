@@ -1,0 +1,3 @@
+>[!Definition]
+>**Adjective**: Translucently clear
+

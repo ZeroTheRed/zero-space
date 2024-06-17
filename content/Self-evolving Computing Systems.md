@@ -1,7 +1,3 @@
-## Motivation
-I had a [[Random Thoughts|random thought]] about the existence of self-evolving computers and programs. If humans can learn and evolve autonomously in their lives, it is only natural to wonder if computers are capable of the same. I may be thinking about AGI but it so turns out that this is concept that is being investigated already. I seek to learn more about them and explore the advantages and limitations that they come packaged with
-
-## Notes
 >[!Definition]
 >Self-evolving computing systems are computational systems that, in addition to tackling various problems and calculations, possess some sort of an evolutionary engine to learn, adapt, and process challenges and scenarios that are outside its operational domain and scope
 
