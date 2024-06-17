@@ -15,3 +15,8 @@
 - [[TUM Urban Air Mobility - Week 3]]
 - [[Spacecraft Dump]]
 - [[Technology Demonstrators]]
+- [[easyJet RISER]]
+- [[Uber Eats - VOXL]]
+- [[EHang eVTOLs]]
+- [[MRS Drone - A Modular Platform for Real-world Deployment of Aerial Multi-Robot Systems]]
+- [[The Need of Drones for Organ Transportation]]

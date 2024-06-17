@@ -1,5 +1,3 @@
-#industry4 #edgecomp
-
 Edge Computing is where data is obtained and processed **close to the source** (in-field)
 #### <font style="color:lightgreen">Advantages</font>
 * Low latency 

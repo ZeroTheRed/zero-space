@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 18-44
-**Tags:** #wiki/aero/air 
-**Uplink:** [[Drone Applications]]
-
-# MRS Drone - A Modular Platform for Real-world Deployment of Aerial Multi-Robot Systems
-
 *Multi-Robot System (MRS)* drone 
 
 **Modularity** - Changes in sensors, frames, and actuator configurations

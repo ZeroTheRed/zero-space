@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 18-42
-**Tags:** #wiki/aero/air 
-**Uplink:** [[Drone Applications]]
-
-# easyJet RISER
-
 In 2015, **easyJet** conducted a successful trial of deploying the **RISER quadcopter** to **perform inspections and safety checks** of **Airbus A380 aircraft**[^1]
 
 RISER was developed by **Blue Bear** and **Createc**

@@ -1,0 +1,4 @@
+>[!Definition]
+>**Adjective**: Triumphantly happy
+
+

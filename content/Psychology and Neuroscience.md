@@ -1,4 +1,3 @@
-## Psychology
 - [[Active Listening]]
 - [[Abstract Thinking]]
 - [[Nonlinear Thinking]]
@@ -6,8 +5,6 @@
 - [[Linear Thinking]]
 - [[Illusion of Knowing]]
 - [[Critical Thinking]]
-
-## Neuroscience
 - [[Declarative and Procedural Memory]]
 - [[Hippocampus]]
 	- [[Reward System]]

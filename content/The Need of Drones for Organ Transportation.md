@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 18-44
-**Tags:** #wiki/aero/air 
-**Uplink:** [[Drone Applications]]
-
-# The Need of Drones for Organ Transportation
-
 In the USA, the **number of lung transplants/year** doubled from <span style="color:lightsalmon">23000</span> in the year 2000 to <span style="color:chartreuse">46632</span> in 2023[^1]
 ##### What drove the growth?
 * Policy changes

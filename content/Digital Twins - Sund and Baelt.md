@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 01-03
-**Tags:** #wiki/tech 
-**Uplink:** [[Digital Twin]], [[Digital Twins - Links]]
-
-# Digital Twins - Sund and Baelt
-
 > More than 46000 bridges in the USA are structurally deficient and those bridges are crossed more than 178 million times a day
 
 \- American Road & Transportation Builders Association (ARTBA) Bridge Report, 2020[^1]

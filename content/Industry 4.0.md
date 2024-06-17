@@ -1,7 +1,3 @@
-#industry4 
-
-[[Industry 4.0 Keyword Map.canvas|Industry 4.0 Keyword Map]]
-
 Industry 4.0 is a neologism that describes **rapid technological development** of various industries. The key aspect of I4.0 is that industries employ the use of **automation and data-and-information processing technologies** to catapult growth and throughput
 ### What are the technologies employed in I4.0?
 * [[Internet of Things (IoT)]] - A smart network of several small devices that are connected over a common IP address. The devices can communicate with each other using messaging protocols within their network 

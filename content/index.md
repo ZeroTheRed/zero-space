@@ -32,7 +32,6 @@ You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a
 - [[Aircraft and Spacecraft]]
 
 >[!Todo]
->- [[Aircraft and Spacecraft]]
 >- [[Robotics]]
 >- [[Technology - General, Emergent, and Disruptive]]
 >- [[Doom Mapping]]
@@ -50,4 +49,5 @@ The grand collection of awesome website links I have found, other fantastic digi
 - [[Awesome links]]
 - [[Collections of Exo-brains, Digital Gardens, and PKBs]]
 - [[Music Tastes]]
+- [[Authors to read]]
 

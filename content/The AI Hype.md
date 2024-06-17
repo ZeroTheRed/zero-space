@@ -1,12 +1,3 @@
-**Date:** 10-06-2024 18-57
-**Tags:** #ai
-**Uplink:**
-
-# The AI Hype
-### Motivation
-To gain a proper and well-rounded perspective on AI and whether the hype is justified or is just plain stupid
-
-### Notes
 The hype surrounding AI has been getting worse and worse with each coming year. Although AI has been around for several years, the craze picked up momentum only after the release of GPT-3 (or ChatGPT) by OpenAI during 2022
 
 Ever since then, the hype is spinning out of control, a lot of companies are riding on abusing the AI buzzword without really knowing what it actually is, and its limitations, several job openings require experience in AI and ML, and a humongous number of material on AI is emerging, the quality of which is debatable

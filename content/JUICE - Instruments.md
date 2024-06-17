@@ -1,6 +1,3 @@
-![[Pasted image 20240601180803.png]]
-**Source**: [^1]
-
 ESA's JUICE has 10 instruments onboard to study the complex systems of Jupiter and its moons in great detail, as shown in the infographic above. In addition to the 10 instruments, it also has a Radiation Monitor (RADEM) and the Planetary Radio Interferometer & Doppler Experiment (PRIDE)[^2]
 
 | Instrument Name                                                 | Objectives                                                                                                                                                                                               | Components                                                                                                                                                            |

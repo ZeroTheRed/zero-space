@@ -1,1 +1,0 @@
-"A signal spike has been detected from our radio telescope array" "That's it! We received communications from an alien civilization!!"

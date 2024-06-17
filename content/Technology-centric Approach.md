@@ -1,7 +1,3 @@
-# Motivation
-I wanted to explore the technique of problem-solving and innovation that my uncle suggested when I was working on the task for my upcoming interview at Deloitte
-I also intend to learn how to start from ground zero and appreciate the functionality of technology to see everything that is possible with it and everything that isn't
-****
 >[!Definition]
 >**Technology-driven Innovation** or **Technology-push Innovation** is the method of innovation in problem solving that follows a bottom-up approach where you start with the technology and branch out to its potential applications and use cases
 

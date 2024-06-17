@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 18-44
-**Tags:** #wiki/aero/air 
-**Uplink:** [[Drone Applications]]
-
-# ThyssenKrupp Steel - delivAIRy
-
 In 2019, ThyssenKrupp Steel demonstrated its first official UAV flight for transporting lab samples[^1]
 
 <span style="color:red">What's the main problem?</span> - Presently, an employee drives to the plant's Schwelgern port 2x a day to collect lab samples (coking coal, iron ore etc.) to the testing plant. The car path crosses unprotected railway crossings - *a safety issue* <- **Drones can ease the travel**
