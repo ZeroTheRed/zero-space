@@ -1,3 +1,0 @@
-- Intrinsic narrative drive - Cortex
-- 
-- 
