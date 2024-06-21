@@ -23,7 +23,7 @@ Down below is a set of Maps of Content (MOC), which serve as indices for you to 
 
 You can also visit the [[content/Changelog|Changelog]] to check out my recent additions/changes to the garden and check out those notes!
 
-## Braindump
+## Braindump/Wiki
 You're welcome to surf through my brain-dump. Much like a wiki, I'm assembling a network of concepts and topics that I'm learning/have learned
 
 - [[Psychology and Neuroscience]]

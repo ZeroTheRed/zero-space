@@ -1,5 +1,4 @@
 - [[Four-dimensionalism]]
-- [[Stoicism]]
 - [[Extropianism]]
 
 >[!Todo]

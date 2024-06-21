@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Work Sans",
-        body: "Work Sans",
-        code: "Red Hat Mono",
+        body: "Karla",
+        code: "Sometype Mono",
       },
       colors: {
         lightMode: {

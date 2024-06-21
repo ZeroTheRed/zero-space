@@ -1,6 +1,6 @@
-- 2024-06-18 at 01h04 · [[index]]
+- 2024-06-21 at 16h42 · [[Philosophy and Worldview]]
+- 2024-06-21 at 16h42 · [[index]]
 - 2024-06-18 at 00h55 · [[Extropianism]]
-- 2024-06-17 at 20h42 · [[Philosophy and Worldview]]
 - 2024-06-17 at 20h41 · [[Psychology and Neuroscience]]
 - 2024-06-17 at 20h41 · [[Programming]]
 - 2024-06-17 at 20h40 · [[Engineering MOC]]
