@@ -6,3 +6,8 @@
 - [[Digital Twin]]
 	- [[Digital Twin + RAG]]
 	- [[Digital Twins - Links]]
+
+### Biotechnology
+- [[Rapid DNA Analysis]]
+- [[Buccal Swab]]
+- [[Self-Assembling Systems]]

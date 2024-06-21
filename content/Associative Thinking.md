@@ -5,7 +5,7 @@ The *medial temporal lobe* is thought to be responsible for associative memory a
 
 There are two distinct types of associative memory
 1. **Implicit memory** - An unconscious memory process that relies on *priming*. Relationships are forged between entities subconsciously when they are presented simultaneously or in quick succession. Implicit association is driven by internal factors such as *performance*, *habituation*, and *thalamic processing speed*. An example would be *a song <-> its lyrics <-> the environment in which the song is being heard*
-3. **Explicit memory** - Explicit association is the conscious connection of entities. This is *explainable* unlike implicit association. An example would be ->.*Paris <-> France (The former is the capital city of the latter)*
+3. **Explicit memory** - Explicit association is the conscious connection of entities. This is *explainable* unlike implicit association. An example would be *Paris <-> France (The former is the capital city of the latter)*
 	1. **Episodic explicit association** - The relationship between "episodes" or events 
 	2. **Semantic explicit association** - The relationship between facts 
 

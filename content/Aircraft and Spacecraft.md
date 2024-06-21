@@ -22,6 +22,7 @@
 	- [[Airbus Urban Mobility GmbH]]
 	- [[Technology Demonstrators]]
 	- [[Challenges faced by the eVTOL Industry]]
+	- [[Drivers of Adoption for UAM in India]]
 - **Aerospace Misc.**
 	- [[2024 Outlook for Aerospace & Defense - Deloitte USA Report]]
 
@@ -32,7 +33,6 @@
 		- [[JUICE - Instruments]]
 - [[Spacecraft Dump]]
 - [[Spacecraft News]]
-- [[Aerospace Companies and Organizations]]
 
 
 

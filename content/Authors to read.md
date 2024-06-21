@@ -14,10 +14,11 @@
 14. Neal Shusterman  
 15. Samantha Shannon  
 16. Yuval Noah Harari  
-17. Peter F. Hamilton  
-18. M.T. Hill  
-19. William Gibson  
-20. Hank Green  
-21. David Mitchell
+		**Currently Reading**: 21 Lessons for the 21st Century
+1. Peter F. Hamilton  
+2. M.T. Hill  
+3. William Gibson  
+4. Hank Green  
+5. David Mitchell
 
 Paul Dourish - Where the action is

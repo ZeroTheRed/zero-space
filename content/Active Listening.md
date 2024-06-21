@@ -1,4 +1,5 @@
 Active listening is all about thoroughly participating in a conversation and listening to what others are saying to full effect. This is becoming quite relevant given our [[Our attention span is lowering|decreasing attention span]]
+
 ### 5 Elements of Active Listening
 1. **Paying attention** - Pay close attention to what the person is speaking without interrupting them. Observe their body language carefully for hints and further contextual information. Try not to distract yourself
 2. **Showing your listening** - Provide acknowledgement to the speaker that you are listening to them all the way through by means of vocal or body language gestures

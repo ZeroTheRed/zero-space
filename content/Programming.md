@@ -11,3 +11,12 @@
 - [[Preprocessor directives]]
 - [[Rufus]]
 - [[Substitution-Permutation (SP) Networks]]
+- [[Kernel Virtual Machine]]
+- [[Blitting]]
+- [[Deterministic Finite Automata (DFA)]]
+
+### AI and Machine Learning
+- [[Specification Gaming]]
+- [[Backpropagation]]
+- [[Context Window]]
+- [[Embedding Model]]

@@ -9,6 +9,7 @@
 ### Learning and Development
 - [[Zone of Proximal Development]]
 - [[Growth Mindset]]
+- [[Effective Learning]]
 
 ### Cognitive Biases
 - [[Illusion of Knowing]]

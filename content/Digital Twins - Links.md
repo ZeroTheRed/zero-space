@@ -1,6 +1,6 @@
 # Use Cases
-* **The Weather Company**[^3]
-* **Sund and Baelt**[^4]
+* [[Digital Twins - NVIDIA and The Weather Company]][^3]
+* [[Digital Twins - Sund and Baelt]]*[^4]
 * **NTT Indycar - Racecar access to fans**[^2][^5][^6] 
 * **Rolls Royce - Improving Jet Engine Efficiency**[^2][^7][^8]
 * **Mars - Optimizing its Supply Chain**[^2][^9] [^11]

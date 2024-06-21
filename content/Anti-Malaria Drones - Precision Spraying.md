@@ -1,9 +1,3 @@
-**Date:** 12-06-2024 00-49
-**Tags:** #wiki/aero/air 
-**Uplink:** [[Drone Applications]]
-
-# Anti-Malaria Drones - Precision Spraying
-
 In Zanzibar, Tanzania, **Anti-Malaria Drones** deployed UAVs to spray **Aquatain AMF**, a natural mosquito larvae repellent agent on rice paddy farms
 
 The drones used were **DJI Agras MG-1S**, modified by DJI to handle heavier and more viscous payloads. The flight controller software was rewritten and the hardware was modified to account for the new agent
